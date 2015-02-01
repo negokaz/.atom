@@ -1,0 +1,15 @@
+"*":
+  editor:
+    fontFamily: "\"MigMix 1M\""
+    fontSize: 14
+    showIndentGuide: true
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "13cf11bc-e1c2-5d73-8c85-3b7392c132b4"
+  welcome:
+    showOnStartup: false

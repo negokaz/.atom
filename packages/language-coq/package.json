@@ -1,0 +1,37 @@
+{
+  "name": "language-coq",
+  "version": "0.1.0",
+  "description": "Coq language support for the Atom editor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darinmorrison/atom-language-coq"
+  },
+  "engines": {
+    "atom": ">= 0.106.0"
+  },
+  "bugs": {
+    "url": "https://github.com/darinmorrison/atom-language-coq/issues"
+  },
+  "dependencies": {},
+  "main": "./index",
+  "readme": "# language-coq package\n\nAdds syntax highlighting to [Coq](http://coq.inria.fr) files in Atom.\n\nContributions are greatly appreciated. Please fork this repository and open a pull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/darinmorrison/atom-language-coq",
+  "_id": "language-coq@0.1.0",
+  "dist": {
+    "shasum": "54027fb5e54fbb62265f61bbf9b9c9068a9d6bb1"
+  },
+  "_resolved": "/private/var/folders/x6/06bgmktx7zl1nrj6rvp6ycc80000gn/T/d-114108-2129-1xaw6rv/package.tgz",
+  "_from": "/private/var/folders/x6/06bgmktx7zl1nrj6rvp6ycc80000gn/T/d-114108-2129-1xaw6rv/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
