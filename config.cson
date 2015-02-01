@@ -13,3 +13,4 @@
     userId: "13cf11bc-e1c2-5d73-8c85-3b7392c132b4"
   welcome:
     showOnStartup: false
+  "view-tail-large-files": {}
